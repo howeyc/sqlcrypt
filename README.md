@@ -1,4 +1,4 @@
-# sqlcrypto [![sqlcrypto GoDoc](https://img.shields.io/badge/reference-godoc-blue.svg?style=flat-square)](https://pkg.go.dev/github.com/howeyc/sqlcrypto?tab=doc)
+# sqlcrypt [![sqlcrypt GoDoc](https://img.shields.io/badge/reference-godoc-blue.svg?style=flat-square)](https://pkg.go.dev/github.com/howeyc/sqlcrypt?tab=doc)
 
 The repository contains methods written in Go mapping the functionality of two
 built-in SQL Server functions:
